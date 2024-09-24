@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "district": "Al Olaya"
+                "name": "Al Olaya"
             },
             "geometry": {
                 "type": "Polygon",
@@ -37,7 +37,7 @@
         {
             "type": "Feature",
             "properties": {
-                "district": "Al Murabba"
+                "name": "Al Murabba"
             },
             "geometry": {
                 "type": "Polygon",
